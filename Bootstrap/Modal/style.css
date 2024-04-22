@@ -1,0 +1,21 @@
+body {
+  padding: 20px;
+}
+h1 {
+  padding-left: 45%;
+}
+p{
+    color: green;
+}
+.modalbox {
+  float: left;
+  clear: left;
+  padding: 20px;
+
+}
+img{
+    float: left;
+    width: 50%;
+    margin: 5px;
+
+}
