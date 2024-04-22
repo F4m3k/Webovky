@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(24, 23, 23);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+    font-style: normal
+}
+p{
+    color: rgb(47, 243, 47);
+}
+span{
+    color: crimson;
+}
+div{
+    background-color: blueviolet;
+}
+.mujodstavec{
+    background-color: rgb(75, 39, 236);
+}
+#posledni{
+    background-color: azure;
+}

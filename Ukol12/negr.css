@@ -1,0 +1,44 @@
+body{
+    background-color: grey;
+}
+#vobal{
+    border-style: solid;
+    border-color: orangered;
+    border-width: 5px;
+    background-color: white;
+    width: 80%;
+}
+#vobal::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+#nav {
+    width: 15%;
+    float: left;
+    text-align: center;
+    background-color: gray;
+    padding-right: 20px;
+}
+.navitem {
+    color: white;
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    padding: 12px 0px 12px 14px;
+    margin: 2px;
+    background-color: orangered;
+    text-align: left;
+}
+#levytext{
+    width: 100%;
+    background-color: white;
+    margin-left: 2px;
+    padding: 0px 7px 13px 7px;
+}
+#hlavni{
+float: left;
+margin: 2px 0px 0px 4px;
+    width: 70%;
+
+}

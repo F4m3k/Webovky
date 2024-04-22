@@ -1,0 +1,10 @@
+body{background-color: grey;}
+h1{color: blue;}
+#h1-1{text-align: center;}
+p{text-indent: 2em; line-height: 1.5em; color: green; background-color: grey;}
+#p1{text-decoration: underline;}
+#p2{text-decoration: overline;}
+#p3{text-decoration: line-through; text-align: right;}
+#p3:hover{color: black; background-color: crimson; font-size: 1.2em;}
+#p4{background-color:aqua;}
+

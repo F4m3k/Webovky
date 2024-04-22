@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(108, 115, 119);
+}
+p{
+    color: pink;
+}
+.moro{
+    color: #444444;
+    font-style: italic;
+}
+#treti{
+    color: red;
+}
+#prvnih{
+    color: green;
+}
+#kokot{
+    background-color: blue;
+}
+#druhy{
+    color: brown;
+    font-weight: bold;
+}
+

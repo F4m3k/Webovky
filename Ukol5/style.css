@@ -1,0 +1,6 @@
+body{color: white;  font-family: 'Times New Roman', Times, serif;   background-color: darkblue;}
+#p1{text-indent: 2em;}
+#p2{text-align: justify;}
+#p3:hover{font-weight: bold; color: red; background-color: white;}
+img{object-position: right;}
+h1{color: green;}

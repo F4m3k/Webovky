@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+    width: 99%;
+    display: block;
+}
+#top{
+    width: 100%;
+    background-color: lightgreen;
+    display: block;
+    float: inline-start;
+    margin-bottom: 2px;
+    border-color: black;
+}
+#title{
+    float: left;
+    display: block;
+    background-color:lightgreen;
+    width: 85%;
+    padding: 0px 0px 0px 0px
+}
+h1{
+    margin: 25px 0px 0px 25px;
+    color: green;
+    font-size: 10ch;
+}
+h2{
+    margin: 0px 0px 0px 25px;
+    font-size: 6ch;
+}
+#nav {
+    width: 15%;
+    float: right;
+    text-align: center;
+    background-color: greenyellow;
+}
+.navitem {
+    color: white;
+    display: block;
+    width: 99%;
+    text-decoration: none;
+    padding: 12px 0px 12px 0px;
+    margin: 2px;
+    background-color: darkgreen;
+
+
+}
+.navitem:hover{
+    background-color: green;
+}
+#mid{
+    width: 100%;
+    background-color: white;
+    float: left;
+}
+#left{
+    width: 53%;
+    float: left;
+    padding: 0px 20px 0px 20px;
+    border-style: inset;
+    border-width: 0px 2px 0 0;
+    border-color: lightgreen;
+}
+#right{
+    width: 43%;
+    float: left;
+    padding: 0px 0px 0px 20px;
+}
+img{
+    width: 30%;
+    height: 30%;
+    float: left;
+    padding: 0 10px 10px 0px;
+}
+#negr{
+    float: auto;
+}
+.negri{
+    float: auto;
+    clear: left;    
+}
+#bottom{
+    width: 100%;
+    background-color: rgb(168, 165, 165);
+    float: left;
+    margin-top: 2px;
+    padding: 0px 0px 0px 0px;
+    display: block;
+}
+.bt{
+    padding: 0 0 0 19px;
+    float: left;
+}
+#spod{
+    margin-top: 15px;
+}
